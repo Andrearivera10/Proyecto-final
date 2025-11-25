@@ -1,0 +1,18 @@
+.colorprincipal{
+    background-color: goldenrod;
+}
+.btn-primary{
+    background-color: goldenrod ! important; 
+    border-color: goldenrod ! important;
+}
+.btn-primary:hover{
+    background-color: goldenrod ! important;
+    border-color: goldenrod ! important;
+}
+.fondo{
+    background-image: url(./img/fondo\ .jpg);
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+}
